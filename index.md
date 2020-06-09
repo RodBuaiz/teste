@@ -4,13 +4,18 @@ youtubeId: u1Vx7-8gVuQ
 
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/RodBuaiz/teste/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is an alternative embed for YT vides from stackoverflow.com/a/61470441:
 
 [![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=StTqXEQ2l-Y)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
-<!--{% include youtubePlayer.html id=page.youtubeId %}-->
+This is using \_includes:
+
+{% include youtubePlayer.html id=page.youtubeId %}
+
+<!-- {% include googleDrivePlayer.html id=page.driveId %} 
+1EC8BnjJMon-vqy-UhLKk9sf_oukZzEbP/preview would be your video ID -->
 
 <!--<iframe src="https://player.vimeo.com/video/3084678" width="640" height="512" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>-->
 
