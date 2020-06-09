@@ -20,4 +20,4 @@ This is using \_includes:
 <!--<iframe src="https://player.vimeo.com/video/3084678" width="640" height="512" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>-->
 
 <script> window.intergramId = "837244102" </script>
-	<script id="intergram" type="text/javascript" src="https://www.intergram.xyz/js/widget.js"></script>
+<script id="intergram" type="text/javascript" src="https://www.intergram.xyz/js/widget.js"></script>
